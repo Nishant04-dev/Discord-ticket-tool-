@@ -1,0 +1,28 @@
+{
+  "name": "open-ticket",
+  "author": "Zen Development",
+  "version": "3.5.9",
+  "description": "The most advanced open-source discord ticket bot with HTML transcripts and plugins! It uses discord.js v14 & no database required!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --devconfig --noerrorupload",
+    "slashEnable": "node index.js slash enable",
+    "slashDisable": "node index.js slash disable"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^5.0.1",
+    "discord.js": "^14.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "bugs": {
+    "url": "",
+    "email": "info.nishantchauhan@gmail.com"
+  },
+  "homepage": ""
+}

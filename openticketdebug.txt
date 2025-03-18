@@ -1,0 +1,489 @@
+==========================
+<OPEN TICKET DEBUG FILE:>
+==========================
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 1000
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.7359084952919417; waiting 30356ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 124ms.
+SYSTEM: [18 February 2025 - 26:38:14] [system] created new ticket (ticket: question-venomjod12 user: venomjod12 )
+SYSTEM: [18 February 2025 - 26:38:14] [api v1.0.0] new ticket created (userid: 850285413066735626 channelid: 1351550310492930068 guildid: 1327285930276421684 ticketdata: {"name":"question-venomjod12","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket if you have a question.","icon":"🎫","label":"question","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["1351546814817374240"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"1351245683566579843"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 129ms.
+SYSTEM: [18 February 2025 - 2:39:14] [system] closed a ticket (user: venomjod12 ticket: question-venomjod12 )
+SYSTEM: [18 February 2025 - 2:39:14] [api v1.0.0] ticket closed (userid: 850285413066735626 channelid: 1351550310492930068 guildid: 1327285930276421684 ticketdata: {"name":"question-venomjod12","status":"closed","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket if you have a question.","icon":"🎫","label":"question","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["1351546814817374240"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"1351245683566579843"}}}} reason: harshit sexy )
+SYSTEM: [18 February 2025 - 8:39:14] [system] deleted a ticket (user: venomjod12 ticket: question-venomjod12 )
+SYSTEM: [18 February 2025 - 8:39:14] [api v1.0.0] ticket deleted (userid: 850285413066735626 channelid: 1351550310492930068 guildid: 1327285930276421684 ticketdata: {"name":"question-venomjod12","status":"deleted","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket if you have a question.","icon":"🎫","label":"question","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["1351546814817374240"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"1351245683566579843"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+SYSTEM: [18 February 2025 - 33:39:14] [command] someone used the 'help' command (user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 33:39:14] [api v1.0.0] someone used a command (type: help hasPerms: true userid: 1276162783188090955 channelid: 1351260821581463624 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+SYSTEM: [18 February 2025 - 33:40:14] [command] someone used the 'help' command (user: venomjod12 )
+SYSTEM: [18 February 2025 - 33:40:14] [api v1.0.0] someone used a command (type: help hasPerms: true userid: 850285413066735626 channelid: 1351239932252913726 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+SYSTEM: [18 February 2025 - 45:40:14] [system] created new ticket (ticket: question-_erwin.smith_ user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 45:40:14] [api v1.0.0] new ticket created (userid: 1276162783188090955 channelid: 1351550900040237168 guildid: 1327285930276421684 ticketdata: {"name":"question-_erwin.smith_","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket if you have a question.","icon":"🎫","label":"question","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["1351546814817374240"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"1351245683566579843"}}}} )
+SYSTEM: [18 February 2025 - 5:41:14] [system] deleted a ticket (user: _erwin.smith_ ticket: question-_erwinsmith_ )
+SYSTEM: [18 February 2025 - 5:41:14] [api v1.0.0] ticket deleted (userid: 1276162783188090955 channelid: 1351550900040237168 guildid: 1327285930276421684 ticketdata: {"name":"question-_erwinsmith_","status":"deleted","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket if you have a question.","icon":"🎫","label":"question","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["1351546814817374240"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"1351245683566579843"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 122ms.
+SYSTEM: [18 February 2025 - 57:41:14] [command] someone used the 'help' command (user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 57:41:14] [api v1.0.0] someone used a command (type: help hasPerms: true userid: 1276162783188090955 channelid: 1351247834371985470 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 143ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 128ms.
+SYSTEM: [18 February 2025 - 57:42:14] [system] created new ticket (ticket: question-venomjod12 user: venomjod12 )
+SYSTEM: [18 February 2025 - 57:42:14] [api v1.0.0] new ticket created (userid: 850285413066735626 channelid: 1351551451658321961 guildid: 1327285930276421684 ticketdata: {"name":"question-venomjod12","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket if you have a question.","icon":"🎫","label":"question","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["1351546814817374240"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"1351245683566579843"}}}} )
+ERROR: DiscordAPIError[10003]: Unknown Channel | origin: unhandledRejection STACK: DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:727:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:1128:23)
+    at async SequentialHandler.queueRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:959:14)
+    at async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1272:22)
+    at async TextChannel.send (/home/container/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:190:15)
+SYSTEM: [18 February 2025 - 57:42:14] [api v1.0.0] there is an error (error: DiscordAPIError[10003]: Unknown Channel )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 131ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 121ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 129ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 128ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 128ms.
+SYSTEM: [18 February 2025 - 36:47:14] [command] someone used the 'message' command (user: venomjod12 id: example-embed )
+SYSTEM: [18 February 2025 - 36:47:14] [api v1.0.0] someone used a command (type: message hasPerms: true userid: 850285413066735626 channelid: 1351260821581463624 guildid: 1327285930276421684 )
+SYSTEM: [18 February 2025 - 6:48:14] [system] created new ticket (ticket: question-_erwin.smith_ user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 6:48:14] [api v1.0.0] new ticket created (userid: 1276162783188090955 channelid: 1351552748335661077 guildid: 1327285930276421684 ticketdata: {"name":"question-_erwin.smith_","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket if you have a question.","icon":"🎫","label":"question","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["1351546814817374240"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"1351245683566579843"}}}} )
+ERROR: Error [ChannelNotCached]: Could not find the channel where this message came from in the cache! | origin: unhandledRejection STACK: Error [ChannelNotCached]: Could not find the channel where this message came from in the cache!
+    at Message.pin (/home/container/node_modules/discord.js/src/structures/Message.js:864:30)
+    at /home/container/core/ticketActions/ticketOpener.js:204:34
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+SYSTEM: [18 February 2025 - 6:48:14] [api v1.0.0] there is an error (error: Error [ChannelNotCached]: Could not find the channel where this message came from in the cache! )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 128ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 126ms.
+SYSTEM: [18 February 2025 - 58:49:14] [system] created new ticket (ticket: question-_erwin.smith_ user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 58:49:14] [api v1.0.0] new ticket created (userid: 1276162783188090955 channelid: 1351553220648112138 guildid: 1327285930276421684 ticketdata: {"name":"question-_erwin.smith_","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket if you have a question.","icon":"🎫","label":"question","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["1351546814817374240"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"1351245683566579843"}}}} )
+SYSTEM: [18 February 2025 - 6:50:14] [system] added role (reaction roles) (user: _erwin.smith_ role: 1351549924264640562 )
+SYSTEM: [18 February 2025 - 6:50:14] [api v1.0.0] someone used a reaction role (mode: add type: add&remove roleid: 1351549924264640562 userid: 1276162783188090955 channelid: 1351260821581463624 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 129ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 999
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.03025676641491115; waiting 1248ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 126ms.
+SYSTEM: [18 February 2025 - 40:18:15] [command] someone used the 'message' command (user: venomjod12 id: example-embed )
+SYSTEM: [18 February 2025 - 40:18:15] [api v1.0.0] someone used a command (type: message hasPerms: true userid: 850285413066735626 channelid: 1351260821581463624 guildid: 1327285930276421684 )
+SYSTEM: [18 February 2025 - 47:18:15] [system] created new ticket (ticket: question-venomjod12 user: venomjod12 )
+SYSTEM: [18 February 2025 - 47:18:15] [api v1.0.0] new ticket created (userid: 850285413066735626 channelid: 1351560470494183465 guildid: 1327285930276421684 ticketdata: {"name":"question-venomjod12","status":"open","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+SYSTEM: [18 February 2025 - 4:19:15] [system] deleted a ticket (user: harshit.asf ticket: question-venomjod12 )
+SYSTEM: [18 February 2025 - 4:19:15] [api v1.0.0] ticket deleted (userid: 930469407333945344 channelid: 1351560470494183465 guildid: 1327285930276421684 ticketdata: {"name":"question-venomjod12","status":"deleted","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 142ms.
+SYSTEM: [18 February 2025 - 19:19:15] [system] created new ticket (ticket: question-strawhat_zoro1999 user: strawhat_zoro1999 )
+SYSTEM: [18 February 2025 - 19:19:15] [api v1.0.0] new ticket created (userid: 1284938463451414570 channelid: 1351560605504507955 guildid: 1327285930276421684 ticketdata: {"name":"question-strawhat_zoro1999","status":"open","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+SYSTEM: [18 February 2025 - 24:19:15] [system] closed a ticket (user: harshit.asf ticket: question-_erwinsmith_ )
+SYSTEM: [18 February 2025 - 24:19:15] [api v1.0.0] ticket closed (userid: 930469407333945344 channelid: 1351553220648112138 guildid: 1327285930276421684 ticketdata: {"name":"question-_erwinsmith_","status":"closed","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} reason: Chut chaat lo )
+SYSTEM: [18 February 2025 - 33:19:15] [system] removed role (reaction roles) (user: venomjod12 role: 1351245683566579843 )
+SYSTEM: [18 February 2025 - 33:19:15] [api v1.0.0] someone used a reaction role (mode: remove type: add&remove roleid: 1351245683566579843 userid: 850285413066735626 channelid: 1351260821581463624 guildid: 1327285930276421684 )
+SYSTEM: [18 February 2025 - 34:19:15] [system] deleted a ticket (user: harshit.asf ticket: question-strawhat_zoro1999 )
+SYSTEM: [18 February 2025 - 34:19:15] [api v1.0.0] ticket deleted (userid: 930469407333945344 channelid: 1351560605504507955 guildid: 1327285930276421684 ticketdata: {"name":"question-strawhat_zoro1999","status":"deleted","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+SYSTEM: [18 February 2025 - 45:19:15] [system] deleted a ticket (user: harshit.asf ticket: question-_erwinsmith_ )
+SYSTEM: [18 February 2025 - 45:19:15] [api v1.0.0] ticket deleted (userid: 930469407333945344 channelid: 1351553220648112138 guildid: 1327285930276421684 ticketdata: {"name":"question-_erwinsmith_","status":"deleted","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+SYSTEM: [18 February 2025 - 5:20:15] [system] created new ticket (ticket: question-strawhat_zoro1999 user: strawhat_zoro1999 )
+SYSTEM: [18 February 2025 - 5:20:15] [api v1.0.0] new ticket created (userid: 1284938463451414570 channelid: 1351560797914005535 guildid: 1327285930276421684 ticketdata: {"name":"question-strawhat_zoro1999","status":"open","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 161ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+SYSTEM: [18 February 2025 - 52:21:15] [command] someone used the 'add' command (user: venomjod12 )
+SYSTEM: [18 February 2025 - 52:21:15] [system] user added to ticket (user: venomjod12 ticket: question-strawhat_zoro1999 added_user: harshit.asf )
+SYSTEM: [18 February 2025 - 52:21:15] [api v1.0.0] user added to ticket (userid: 850285413066735626 editeduser: 930469407333945344 channelid: 1351560797914005535 guildid: 1327285930276421684 ticketdata: {"status":"open","name":"question-strawhat_zoro1999","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+SYSTEM: [18 February 2025 - 52:21:15] [api v1.0.0] someone used a command (type: add hasPerms: true userid: 850285413066735626 channelid: 1351560797914005535 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 148ms.
+SYSTEM: [18 February 2025 - 10:22:15] [command] someone used the 'add' command (user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 10:22:15] [system] user added to ticket (user: _erwin.smith_ ticket: question-strawhat_zoro1999 added_user: 19.11xo )
+SYSTEM: [18 February 2025 - 10:22:15] [api v1.0.0] user added to ticket (userid: 1276162783188090955 editeduser: 1299691628784652321 channelid: 1351560797914005535 guildid: 1327285930276421684 ticketdata: {"status":"open","name":"question-strawhat_zoro1999","ticketOptions":{"id":"example-ticket","name":"TICKET","description":"Create this ticket to buy.","icon":"🎫","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351245683566579843"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"1351255017788670053"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+SYSTEM: [18 February 2025 - 10:22:15] [api v1.0.0] someone used a command (type: add hasPerms: true userid: 1276162783188090955 channelid: 1351560797914005535 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 125ms.
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 998
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.45862861888598383; waiting 18918ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 128ms.
+SYSTEM: [18 February 2025 - 15:45:15] [system] created new ticket (ticket: question-venomjod12 user: venomjod12 )
+SYSTEM: [18 February 2025 - 15:45:15] [api v1.0.0] new ticket created (userid: 850285413066735626 channelid: 1351567131162185738 guildid: 1327285930276421684 ticketdata: {"name":"question-venomjod12","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket to buy.","icon":"🛒","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 138ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 124ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 131ms.
+SYSTEM: [18 February 2025 - 20:47:15] [command] someone used the 'stats' command (user: venomjod12 mode: user )
+SYSTEM: [18 February 2025 - 20:47:15] [api v1.0.0] someone used a command (type: stats hasPerms: true userid: 850285413066735626 channelid: 1351567131162185738 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 129ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 142ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 128ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 146ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 131ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 142ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 141ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 147ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 124ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 151ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 157ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 122ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+DEBUG: [WS => Shard 0] Destroying shard
+	Reason: Told to reconnect by Discord
+	Code: 4200
+	Recover: Resume
+DEBUG: [WS => Shard 0] Connection status during destroy
+	Needs closing: true
+	Ready state: 1
+DEBUG: [WS => Shard 0] Connecting to wss://gateway-us-east1-d.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.880761359126736; waiting 36331ms
+DEBUG: [WS => Shard 0] Resuming session
+	resume url: wss://gateway-us-east1-d.discord.gg
+	sequence: 42
+	shard id: 0
+DEBUG: [WS => Shard 0] Resumed and replayed 1 events
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+SYSTEM: [18 February 2025 - 0:11:16] [system] deleted a ticket (user: _erwin.smith_ ticket: question-strawhat_zoro1999 )
+SYSTEM: [18 February 2025 - 0:11:16] [api v1.0.0] ticket deleted (userid: 1276162783188090955 channelid: 1351560797914005535 guildid: 1327285930276421684 ticketdata: {"name":"question-strawhat_zoro1999","status":"deleted","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket to buy.","icon":"🛒","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 126ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 145ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 141ms.
+SYSTEM: [18 February 2025 - 50:14:16] [system] deleted a ticket (user: _erwin.smith_ ticket: question-venomjod12 )
+SYSTEM: [18 February 2025 - 50:14:16] [api v1.0.0] ticket deleted (userid: 1276162783188090955 channelid: 1351567131162185738 guildid: 1327285930276421684 ticketdata: {"name":"question-venomjod12","status":"deleted","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket to buy.","icon":"🛒","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 126ms.
+SYSTEM: [18 February 2025 - 56:14:16] [system] created new ticket (ticket: question-_erwin.smith_ user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 56:14:16] [api v1.0.0] new ticket created (userid: 1276162783188090955 channelid: 1351574602693869721 guildid: 1327285930276421684 ticketdata: {"name":"question-_erwin.smith_","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket to buy.","icon":"🛒","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+SYSTEM: [18 February 2025 - 11:15:16] [system] removed role (reaction roles) (user: _erwin.smith_ role: 1351549924264640562 )
+SYSTEM: [18 February 2025 - 11:15:16] [api v1.0.0] someone used a reaction role (mode: remove type: add&remove roleid: 1351549924264640562 userid: 1276162783188090955 channelid: 1351260821581463624 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 140ms.
+SYSTEM: [18 February 2025 - 41:15:16] [system] deleted a ticket (user: _erwin.smith_ ticket: question-_erwinsmith_ )
+SYSTEM: [18 February 2025 - 41:15:16] [api v1.0.0] ticket deleted (userid: 1276162783188090955 channelid: 1351574602693869721 guildid: 1327285930276421684 ticketdata: {"name":"question-_erwinsmith_","status":"deleted","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket to buy.","icon":"🛒","label":"SHOP","type":"ticket","color":"gray","adminroles":["1351546814817374240"],"readonlyAdminroles":["role id"],"channelprefix":"question-","category":"1351255017788670053","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":"012345678910"}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 141ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+SYSTEM: [18 February 2025 - 54:18:16] [command] someone used the 'message' command (user: venomjod12 id: example-embed )
+SYSTEM: [18 February 2025 - 54:18:16] [api v1.0.0] someone used a command (type: message hasPerms: true userid: 850285413066735626 channelid: 1351260821581463624 guildid: 1327285930276421684 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 145ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 1000
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.3023630920254836; waiting 12472ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+SYSTEM: [18 February 2025 - 19:44:20] [info] tried to cache user information, failed!  
+ERROR: DiscordAPIError[50001]: Missing Access | origin: unhandledRejection STACK: DiscordAPIError[50001]: Missing Access
+    at handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:727:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:1128:23)
+    at async SequentialHandler.queueRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:959:14)
+    at async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1272:22)
+    at async ApplicationCommandManager.create (/home/container/node_modules/discord.js/src/managers/ApplicationCommandManager.js:142:18)
+SYSTEM: [18 February 2025 - 20:44:20] [api v1.0.0] there is an error (error: DiscordAPIError[50001]: Missing Access )
+ERROR: DiscordAPIError[50001]: Missing Access | origin: unhandledRejection STACK: DiscordAPIError[50001]: Missing Access
+    at handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:727:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:1128:23)
+    at async SequentialHandler.queueRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:959:14)
+    at async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1272:22)
+    at async ApplicationCommandManager.create (/home/container/node_modules/discord.js/src/managers/ApplicationCommandManager.js:142:18)
+SYSTEM: [18 February 2025 - 21:44:20] [api v1.0.0] there is an error (error: DiscordAPIError[50001]: Missing Access )
+ERROR: DiscordAPIError[50001]: Missing Access | origin: unhandledRejection STACK: DiscordAPIError[50001]: Missing Access
+    at handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:727:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:1128:23)
+    at async SequentialHandler.queueRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:959:14)
+    at async _REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1272:22)
+    at async ApplicationCommandManager.create (/home/container/node_modules/discord.js/src/managers/ApplicationCommandManager.js:142:18)
+SYSTEM: [18 February 2025 - 21:44:20] [api v1.0.0] there is an error (error: DiscordAPIError[50001]: Missing Access )
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+SYSTEM: [18 February 2025 - 35:45:20] [command] someone used the 'help' command (user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 35:45:20] [api v1.0.0] someone used a command (type: help hasPerms: true userid: 1276162783188090955 channelid: 1351126785970016297 guildid: 1338600434465636424 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 129ms.
+SYSTEM: [18 February 2025 - 21:46:20] [command] someone used the 'help' command (user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 21:46:20] [api v1.0.0] someone used a command (type: help hasPerms: true userid: 1276162783188090955 channelid: 1351126785970016297 guildid: 1338600434465636424 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 137ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 131ms.
+SYSTEM: [18 February 2025 - 0:49:20] [command] someone used the 'help' command (user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 0:49:20] [api v1.0.0] someone used a command (type: help hasPerms: true userid: 1276162783188090955 channelid: 1351127774156427285 guildid: 1338600434465636424 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 155ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 128ms.
+SYSTEM: [18 February 2025 - 14:51:20] [command] someone used the 'help' command (user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 14:51:20] [api v1.0.0] someone used a command (type: help hasPerms: true userid: 1276162783188090955 channelid: 1351126808808132609 guildid: 1338600434465636424 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 153ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 1112ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 24304ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 4909ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 1166ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 129ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 136ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 155ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 131ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 143ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 133ms.
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 999
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.013995387878445564; waiting 577ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 122ms.
+SYSTEM: [18 February 2025 - 56:2:21] [command] someone used the 'message' command (user: _erwin.smith_ id: example-embed )
+SYSTEM: [18 February 2025 - 56:2:21] [api v1.0.0] someone used a command (type: message hasPerms: true userid: 1276162783188090955 channelid: 1351126785970016297 guildid: 1338600434465636424 )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 123ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 139ms.
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 998
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.9484685247543152; waiting 39124ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 152ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 141ms.
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 997
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.5362546668448684; waiting 22120ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+SYSTEM: [18 February 2025 - 16:9:21] [command] someone used the 'message' command (user: _erwin.smith_ id: example-embed )
+SYSTEM: [18 February 2025 - 16:9:21] [api v1.0.0] someone used a command (type: message hasPerms: true userid: 1276162783188090955 channelid: 1351126785970016297 guildid: 1338600434465636424 )
+SYSTEM: [18 February 2025 - 21:9:21] [system] removed role (reaction roles) (user: _erwin.smith_ role: 1351648380006170795 )
+SYSTEM: [18 February 2025 - 21:9:21] [api v1.0.0] someone used a reaction role (mode: remove type: add&remove roleid: 1351648380006170795 userid: 1276162783188090955 channelid: 1351126785970016297 guildid: 1338600434465636424 )
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 135ms.
+SYSTEM: [18 February 2025 - 48:9:21] [system] added role (reaction roles) (user: _erwin.smith_ role: 1351648380006170795 )
+SYSTEM: [18 February 2025 - 48:9:21] [api v1.0.0] someone used a reaction role (mode: add type: add&remove roleid: 1351648380006170795 userid: 1276162783188090955 channelid: 1351126785970016297 guildid: 1338600434465636424 )
+SYSTEM: [18 February 2025 - 58:9:21] [system] created new ticket (ticket: querie-_erwin.smith_ user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 58:9:21] [api v1.0.0] new ticket created (userid: 1276162783188090955 channelid: 1351648850385047705 guildid: 1338600434465636424 ticketdata: {"name":"querie-_erwin.smith_","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket for queries.","icon":"❓","label":"Queries","type":"ticket","color":"gray","adminroles":["1351126718114566185"],"readonlyAdminroles":["role id"],"channelprefix":"querie-","category":"1351135498814357526","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":""}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 132ms.
+SYSTEM: [18 February 2025 - 23:10:21] [system] deleted a ticket (user: _erwin.smith_ ticket: querie-_erwinsmith_ )
+SYSTEM: [18 February 2025 - 23:10:21] [api v1.0.0] ticket deleted (userid: 1276162783188090955 channelid: 1351648850385047705 guildid: 1338600434465636424 ticketdata: {"name":"querie-_erwinsmith_","status":"deleted","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket for queries.","icon":"❓","label":"Queries","type":"ticket","color":"gray","adminroles":["1351126718114566185"],"readonlyAdminroles":["role id"],"channelprefix":"querie-","category":"1351135498814357526","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":""}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 131ms.
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 996
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.6834680581823529; waiting 28193ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+SYSTEM: [18 February 2025 - 39:11:21] [system] created new ticket (ticket: querie-_erwin.smith_ user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 39:11:21] [api v1.0.0] new ticket created (userid: 1276162783188090955 channelid: 1351649274932232263 guildid: 1338600434465636424 ticketdata: {"name":"querie-_erwin.smith_","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket for queries.","icon":"❓","label":"Queries","type":"ticket","color":"gray","adminroles":["1351126718114566185"],"readonlyAdminroles":["role id"],"channelprefix":"querie-","category":"1351135498814357526","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@Support":true,"@everyone":false,"custom":{"enable":false,"roleId":""}}}} )
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 124ms.
+DEBUG: Provided token: ***********bot token is invisible**************...
+DEBUG: Preparing to connect to the gateway...
+DEBUG: [WS => Manager] Fetched Gateway Information
+	URL: wss://gateway.discord.gg
+	Recommended Shards: 1
+DEBUG: [WS => Manager] Session Limit Information
+	Total: 1000
+	Remaining: 995
+DEBUG: [WS => Shard 0] Connecting to wss://gateway.discord.gg?v=10&encoding=json
+DEBUG: [WS => Shard 0] Waiting for event hello for 60000ms
+DEBUG: [WS => Shard 0] Preparing first heartbeat of the connection with a jitter of 0.04537821332470049; waiting 1871ms
+DEBUG: [WS => Shard 0] Waiting for identify throttle
+DEBUG: [WS => Shard 0] Identifying
+	shard id: 0
+	shard count: 1
+	intents: 37443
+	compression: none
+DEBUG: [WS => Shard 0] Waiting for event ready for 15000ms
+DEBUG: [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+DEBUG: [WS => Shard 0] First heartbeat sent, starting to beat every 41250ms
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 127ms.
+SYSTEM: [18 February 2025 - 39:12:21] [system] deleted a ticket (user: _erwin.smith_ ticket: querie-_erwinsmith_ )
+SYSTEM: [18 February 2025 - 39:12:21] [api v1.0.0] ticket deleted (userid: 1276162783188090955 channelid: 1351649274932232263 guildid: 1338600434465636424 ticketdata: {"name":"querie-_erwinsmith_","status":"deleted","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket for queries.","icon":"❓","label":"Queries","type":"ticket","color":"gray","adminroles":["1351126718114566185"],"readonlyAdminroles":["role id"],"channelprefix":"querie-","category":"1351135498814357526","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":""}}}} )
+SYSTEM: [18 February 2025 - 47:12:21] [system] created new ticket (ticket: querie-_erwin.smith_ user: _erwin.smith_ )
+SYSTEM: [18 February 2025 - 47:12:21] [api v1.0.0] new ticket created (userid: 1276162783188090955 channelid: 1351649558215655475 guildid: 1338600434465636424 ticketdata: {"name":"querie-_erwin.smith_","status":"open","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket for queries.","icon":"❓","label":"Queries","type":"ticket","color":"gray","adminroles":["1351126718114566185"],"readonlyAdminroles":["role id"],"channelprefix":"querie-","category":"1351135498814357526","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":""}}}} )
+SYSTEM: [18 February 2025 - 17:13:21] [system] deleted a ticket (user: _erwin.smith_ ticket: querie-_erwinsmith_ )
+SYSTEM: [18 February 2025 - 17:13:21] [api v1.0.0] ticket deleted (userid: 1276162783188090955 channelid: 1351649558215655475 guildid: 1338600434465636424 ticketdata: {"name":"querie-_erwinsmith_","status":"deleted","ticketOptions":{"id":"example-ticket","name":"Question","description":"Create this ticket for queries.","icon":"❓","label":"Queries","type":"ticket","color":"gray","adminroles":["1351126718114566185"],"readonlyAdminroles":["role id"],"channelprefix":"querie-","category":"1351135498814357526","message":"You created a ticket!","enableDmOnOpen":true,"ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*","thumbnail":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"image":{"enable":false,"url":"https://www.example.com/catmemes/cat.png"},"closedCategory":{"enable":false,"id":"category id"},"autoclose":{"enable":false,"inactiveHours":24},"ping":{"@here":true,"@everyone":false,"custom":{"enable":false,"roleId":""}}}} )
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 134ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 130ms.
+DEBUG: [WS => Shard 0] Heartbeat acknowledged, latency of 159ms.

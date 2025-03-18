@@ -1,0 +1,148 @@
+{
+    "_DOCUMENTATION":"https://otdocs.dj-dj.be",
+    "_SUPPORT":"https://discord.dj-dj.be",
+    
+    "color":"#ffffff",
+    "serverId":"Your_server_id",
+    "token":{
+        "value":"Your_bot_token",
+        "fromENV":false
+    },
+    "adminRoles":["Your_ticket_support"],
+    "prefix":"!ticket ",
+    "languageFile":"english",
+
+    "status":{
+        "enabled":true,
+        "type":"PLAYING",
+        "text":"with your ex's ticket"
+    },
+
+    "system":{
+        "maxAmountOfTickets":3,
+        "dmMessages":false,
+
+        "memberRole":"members_role",
+        "closeMode":"adminonly",
+
+        "transcripts":"!!!! ALL SETTINGS FOR TRANSCRIPTS ARE LOCATED IN: transcriptconfig.json !!!!",
+
+        "showSlashcmdsInHelp":false,
+        "answerInEphemeralOnOpen":true
+    },
+
+    "options":[
+        {
+            "id":"example-ticket",
+            "name":"Question",
+            "description":"Create this ticket for queries.",
+            "icon":"❓",
+            "label":"Queries",
+            "type":"ticket",
+
+            "color":"gray",
+            "adminroles":["same"],
+            "readonlyAdminroles":["role id"],
+            "channelprefix":"querie-",
+            "category":"ticket_category_id",
+            "message":"You created a ticket!",
+            "enableDmOnOpen":true,
+            "ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*",
+
+            "thumbnail":{
+                "enable":false,
+                "url":"https://www.example.com/catmemes/cat.png"
+            },
+            "image":{
+                "enable":false,
+                "url":"https://www.example.com/catmemes/cat.png"
+            },
+
+            "closedCategory":{
+                "enable":false,
+                "id":"category id"
+            },
+
+            "autoclose":{
+                "enable":false,
+                "inactiveHours":24
+            },
+
+            "ping":{
+                "@here":true,
+                "@everyone":false,
+                "custom":{
+                    "enable":false,
+                    "roleId":""
+                }
+            }
+        },
+        {
+
+            "id":"example-role",
+
+            "name":"extra",
+
+            "description":"Click here to get support chat role!",
+
+            "icon":"📢",
+
+            "label":"extra",
+
+            "type":"role",
+
+            "color":"red",
+
+            "roles":["extra"],
+
+              "mode":"add&remove",
+
+            "enableDmOnOpen":true
+
+        }
+    ],
+
+    "messages":[
+        {
+            "id":"example-embed",
+            "name":"Choose Your Ticket",
+            "description":"You can click one of the buttons below!",
+            "dropdown":false,
+
+            "enableFooter":false,
+            "footer":"Open Ticket v3.5.9 - I'm a footer!",
+
+            "enableFooterImage":false,
+            "footerImage":"https://www.example.com/catmemes/cat.png",
+
+            "enableThumbnail":false,
+            "thumbnail":"https://www.example.com/catmemes/cat.png",
+
+            "enableImage":false,
+            "image":"https://www.example.com/catmemes/cat.png",
+
+            "enableCustomColor":false,
+            "color":"#ffffff",
+
+            "options":["example-ticket","example-website","example-role"],
+            
+            "other":{
+                "enableTicketExplaination":true,
+                "enableMaxTicketsWarning":true,
+                
+                "customDropdownPlaceholder":{
+                    "enable":false,
+                    "text":"Choose a ticket"
+                },
+                "customCategoryText":{
+                    "enable":false,
+                    "text":"choose a category:"
+                },
+                "embedTitleURL":{
+                    "enable":false,
+                    "url":""
+                }
+            }
+        }
+    ]
+}
