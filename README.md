@@ -21,4 +21,30 @@ There is already a [large ecosystem of plugins] available right now! Don't wait 
 - **📥 extra types** - The bot also supports Reaction Roles & Url Buttons, because why not ¯\\_(ツ)_/¯
 - **🎛️ dependencies** - We try to use as little external dependencies as needed!
 
+
+# Installation
+
+- To clone this repo
+```
+
+git clone https://github.com/Nishant04-dev/Nishant-.git
+cd Security-Bot
+
+```
+
+- To install modules
+```
+
+npm i
+
+```
+
+- To run the bot
+```
+
+node index.js
+
+```
+
+
 # Support server link - https://discord.gg/FnCNmGjEB9
