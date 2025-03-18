@@ -5,6 +5,8 @@ What is Zen Ticket v4? Well, it's a complete rewrite of Open Ticket with the mai
 There are massive stability & speed improvements, hundreds of new features and very powerful plugins!
 There is already a [large ecosystem of plugins] available right now! Don't wait and check them out!
 
+# Source code - https://drive.google.com/file/d/10uQupGaFf--ZOBDPj4D7FdVQFQQi5EIU/view?usp=drivesdk
+
 ## 📌 Features
 - **🎉 html transcripts** - Make use of the most customisable, beautiful and easy-to-use HTML Transcripts!
 - **✅ ticket actions** - Close, Re-Open, Delete, Rename & Move all your tickets!
