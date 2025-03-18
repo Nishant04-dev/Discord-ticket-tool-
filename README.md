@@ -27,8 +27,7 @@ There is already a [large ecosystem of plugins] available right now! Don't wait 
 - To clone this repo
 ```
 
-git clone https://github.com/Nishant04-dev/Nishant-.git
-cd Security-Bot
+git clone https://github.com/Nishant04-dev/Discord-ticket-tool-.git
 
 ```
 
